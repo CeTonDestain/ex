@@ -1,0 +1,8 @@
+.main{
+    text-align: center;
+}
+table{
+    margin: auto;
+    border: 0.1rem solid  green;
+    border-spacing: 5rem;
+}
